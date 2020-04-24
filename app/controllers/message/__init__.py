@@ -10,9 +10,9 @@ class MessageController(object):
     @staticmethod
     def index(data: dict = None):
         action = request.method
-        if action is 'ADD':
+        if action is 'POST':
             return addMessage( data['content'] )
         elif action is 'DELETE':
             return deleteMessage( data['id'] )
-        elif action is 'LIST':
+        elif action is 'GET':
             return listMessages()

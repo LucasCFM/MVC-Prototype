@@ -2,7 +2,6 @@
 Protótipo para exemplificar a arquitetura MVC e a utilização do padrão de design Facade
 
 ### Arquitetura MVC
-
 MVC é uma arquitetura para desenvolvimento web que consiste na separação das responsabilidades do sistema em 3 principais pelares: model, view, controller
 
 #### Model
@@ -28,7 +27,7 @@ Essa é a classe responsável pela implementação do padrão de design Facade:
 --------------------
 ### Descrição do projeto
 
-O seguinte projeto utiliza-se dessa arquitetura para implementar um sistema web de registro de mensagens, podendo incluir, excluir e listar as mensagens. As páginas estão disponíveis na pasta [view](VIEW_URL), o acesso e tratamento de dados estão codificados nos [controllers](CONTROLLER_URL), e abstração do modelo de dado está representada no [model](MODEl_URL).
+O seguinte projeto utiliza-se dessa arquitetura para implementar um sistema web de registro de mensagens, podendo incluir, excluir e listar as mensagens. As páginas estão disponíveis na pasta [view](app/views), o acesso e tratamento de dados estão codificados nos [controllers](app/controllers), e abstração do modelo de dado está representada no [model](app/models).
 
 
 
