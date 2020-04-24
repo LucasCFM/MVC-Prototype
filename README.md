@@ -5,13 +5,13 @@ Protótipo para exemplificar a arquitetura MVC e a utilização do padrão de de
 
 MVC é uma arquitetura para desenvolvimento web que consiste na separação das responsabilidades do sistema em 3 principais pelares: model, view, controller
 
-##### Model
+#### Model
 Responsável pela representação abstrata dos modelos de dados da aplicação
 
-##### View
+#### View
 Responsável pela entrega dos resultados para o usuário
 
-##### Controller
+#### Controller
 É A ponte entre os models e as views. Responsável pela regra de negócio do sistema, implementa as lógicas que seram utilizadas nós dados e entregue para as views
 
 --------------------
