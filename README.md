@@ -36,13 +36,13 @@ Esse projeto utiliza-se da arquitetura MVC para implementar um sistema web de re
 --------------------
 ### Diagrama de Robustes
 
-![Diagrama de Robustez](assets/diagram-robustez.png)
+![Diagrama de Robustez](assets/uml-diagram-robustez.png)
 
 
 --------------------
 ### Diagrama de Colaboração
 
-![Diagrama de Colaboração](assets/diagram-colaboracao.png)
+![Diagrama de Colaboração](assets/uml-diagram-colaboracao.png)
 
 
 --------------------
