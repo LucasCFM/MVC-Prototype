@@ -35,16 +35,18 @@ Esse projeto utiliza-se da arquitetura MVC para implementar um sistema web de re
 
 --------------------
 ### Diagrama de Robustes
-
+  
+  
 ![Diagrama de Robustez](assets/uml-diagram-robustez.png)
 
 
 --------------------
 ### Diagrama de Colaboração
-
+  
+  
 ![Diagrama de Colaboração](assets/uml-diagram-colaboracao.png)
-
-
+  
+  
 --------------------
 ### Fontes
 - https://plleon.wordpress.com/2008/10/24/diagrama-de-robustez/
@@ -52,3 +54,5 @@ Esse projeto utiliza-se da arquitetura MVC para implementar um sistema web de re
 - https://refactoring.guru/design-patterns/facade/python/example#example-0
 - https://sourcemaking.com/design_patterns
 - https://plleon.wordpress.com/
+- https://pt.wikipedia.org/wiki/Diagrama_de_colabora%C3%A7%C3%A3o
+- http://www.dsc.ufcg.edu.br/~jacques/cursos/apoo/html/proj1/proj4.htm
